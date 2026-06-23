@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3834-merge-adjacent-equal-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0739-daily-temperatures) |
+| [3834-merge-adjacent-equal-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3834-merge-adjacent-equal-elements) |
 ## Tree
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->
