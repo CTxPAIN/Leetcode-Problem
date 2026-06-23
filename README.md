@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
 ## Stack
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
