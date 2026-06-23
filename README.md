@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0344-reverse-string) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
