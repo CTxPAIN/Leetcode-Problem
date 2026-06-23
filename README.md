@@ -52,15 +52,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
