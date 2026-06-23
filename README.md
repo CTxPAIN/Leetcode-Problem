@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0901-online-stock-span) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
