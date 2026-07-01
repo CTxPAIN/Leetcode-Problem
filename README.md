@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -212,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
@@ -226,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
