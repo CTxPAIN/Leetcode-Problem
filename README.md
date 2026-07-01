@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
 |  |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 ## Bucket Sort
 |  |
