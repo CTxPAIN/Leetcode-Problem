@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Divide and Conquer
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
+| [1025-divisor-game](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1025-divisor-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
@@ -256,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
