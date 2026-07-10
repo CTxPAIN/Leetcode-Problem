@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 ## Sliding Window
 |  |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
