@@ -1,31 +1,34 @@
-// 
-
 class Solution {
 public:
     void helper(vector<vector<int>>& result, vector<int>& ans, vector<int>& nums, int idx) {
-        // Every state we reach is a valid subset, so we add it immediately
-        result.push_back(ans);
+        // result.push_back(ans);
         
-        for (int i = idx; i < nums.size(); i++) {
-            // If the current element is a duplicate of the previous element 
-            // *at this specific depth level*, skip it to avoid duplicate subsets.
-            if (i > idx && nums[i] == nums[i - 1]) {
-                continue;
-            }
-            
-            // Include the current element
-            ans.push_back(nums[i]);
-            
-            // Move deeper into the recursion tree
-            helper(result, ans, nums, i + 1);
-            
-            // Backtrack: remove the element to try other combinations
-            ans.pop_back();
+        // for (int i = idx; i < nums.size(); i++) {
+        //     if (i > idx && nums[i] == nums[i - 1]) {
+        //         continue;
+        //     }
+        //     ans.push_back(nums[i]);
+        //     helper(result, ans, nums, i + 1);
+        //     ans.pop_back();
+        // }
+
+
+        if(idx==nums.size()){
+            result.push_back(ans);
+            return;
         }
+
+        ans.push_back(nums[idx]);
+        helper(result,ans,nums,idx+1);
+        ans.pop_back();
+        while(idx+1<nums.size()&&nums[idx]==nums[idx+1]){
+            idx++;
+        }
+        helper(result,ans,nums,idx+1);
     }
 
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        sort(nums.begin(), nums.end()); // Crucial: brings duplicates together
+        sort(nums.begin(), nums.end());
         vector<vector<int>> result;
         vector<int> ans;
         helper(result, ans, nums, 0);
