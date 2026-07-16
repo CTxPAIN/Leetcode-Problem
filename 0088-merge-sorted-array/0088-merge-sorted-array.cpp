@@ -24,7 +24,7 @@ public:
             ans.push_back(num2[j]);
             j++;
         }
-           for (int k = 0; k < m + n; k++) {
+           for (int k = 0; k < ans.size(); k++) {
             num1[k] = ans[k];
         }
     }
