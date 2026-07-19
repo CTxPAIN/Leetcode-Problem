@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
 |  |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 ## Quickselect
 |  |
