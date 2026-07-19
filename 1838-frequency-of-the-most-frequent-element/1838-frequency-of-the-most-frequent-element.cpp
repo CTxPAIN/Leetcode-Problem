@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+// time complexity is  O(nlogn)
     int maxFrequency(vector<int>& nums, int k) {
         sort(nums.begin(),nums.end());
         int i=0;
