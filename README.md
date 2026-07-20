@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1260-shift-2d-grid](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
 | [3834-merge-adjacent-equal-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3834-merge-adjacent-equal-elements) |
 ## Backtracking
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
