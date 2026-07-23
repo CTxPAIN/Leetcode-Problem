@@ -13,7 +13,7 @@ public:
             int b=x%10;
             x/=10;
             int c=x;
-            if(s.find(a)!=s.end()){
+            if(s.find(a)!=s.end()){ 
               s[a]--;
               if(s[a]==0)s.erase(a);
                 if(s.find(b)!=s.end()){
