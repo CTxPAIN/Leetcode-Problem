@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2094-finding-3-digit-even-numbers) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
