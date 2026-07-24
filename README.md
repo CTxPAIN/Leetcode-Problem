@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
