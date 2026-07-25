@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0018-4sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0018-4sum) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0861-score-after-flipping-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2182-construct-string-with-repeat-limit) |
