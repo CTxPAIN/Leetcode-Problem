@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
+| [1089-duplicate-zeros](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1089-duplicate-zeros) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
+| [1089-duplicate-zeros](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
