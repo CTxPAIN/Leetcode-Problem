@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
