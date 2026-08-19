@@ -12,7 +12,7 @@ public:
             return x.first;
         }
       }
-      return arr[0];
+      return -1;
     }
 
 
