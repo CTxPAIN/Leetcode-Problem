@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0861-score-after-flipping-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0541-reverse-string-ii) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
