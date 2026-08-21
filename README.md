@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3945-digit-frequency-score](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3945-digit-frequency-score](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
