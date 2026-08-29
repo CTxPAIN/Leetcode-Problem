@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3731-find-missing-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bit Manipulation
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3731-find-missing-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
