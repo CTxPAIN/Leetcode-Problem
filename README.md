@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3731-find-missing-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3834-merge-adjacent-equal-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3834-merge-adjacent-equal-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3834-merge-adjacent-equal-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
 | ------- |
