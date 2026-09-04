@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/3731-find-missing-elements) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
 |  |
