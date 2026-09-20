@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0013-roman-to-integer) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
@@ -461,5 +463,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
