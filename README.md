@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0342-power-of-four) |
@@ -464,5 +465,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
