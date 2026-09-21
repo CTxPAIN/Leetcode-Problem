@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0283-move-zeroes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0229-majority-element-ii) |
 ## Queue
 |  |
 | ------- |
