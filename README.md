@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1089-duplicate-zeros) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/CTxPAIN/Leetcode-Problem/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
